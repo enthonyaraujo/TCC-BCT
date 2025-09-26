@@ -1,6 +1,10 @@
 # Trabalho de Conclusão de Curso - Bacharel em Ciência e Tecnologia
 
-<p style="text-align:center;">## RESUMO </p>
+
+<div align="center">
+  RESUMO
+</div>
+
 Este trabalho analisa a aplicação da Transformada Z na resolução de circuitos elétricos discretos,
 com foco em ladder networks. A Transformada Z permite converter equações de diferenças
 em expressões algébricas, facilitando a modelagem e a previsão do comportamento dinâmico
@@ -11,10 +15,15 @@ automatizar os cálculos. Os resultados mostraram forte correlação entre os va
 e simulados, validando a eficácia do método. Os resultados ressaltam a aplicabilidade da
 Transformada Z na análise de circuitos elétricos e destacam sua utilidade na otimização de
 processos de modelagem matemática.
-Palavras-chave: Transformada Z. Ladder networks. Análise de circuitos. Equações de dife-
-rença.
 
-<p style="text-align:center;">## ABSTRACT</p>
+Palavras-chave: Transformada Z. Ladder networks. Análise de circuitos. Equações de diferença.
+
+
+
+<div align="center">
+  ABSTRACT
+</div>
+
 
 This study analyzes the application of the Z-Transform in solving discrete electrical circuits,
 focusing on ladder networks. The Z-Transform allows converting difference equations into
@@ -26,6 +35,7 @@ The results showed a strong correlation between the theoretical and simulated va
 the effectiveness of the method. The findings highlight the applicability of the Z-Transform in
 electrical circuit analysis and emphasize its usefulness in optimizing mathematical modeling
 processes.
+
 Keywords: Z-Transform, Ladder networks, Circuit analysis, Difference equations.
 
 ### Tecnologias Utilizadas:

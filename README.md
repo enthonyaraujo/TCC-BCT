@@ -39,7 +39,7 @@ processes.
 
 Keywords: Z-Transform, Ladder networks, Circuit analysis, Difference equations.
 
-### Tecnologias Utilizadas:
+### Tecnologias utilizadas:
 
 [Python](https://www.python.org/)
 

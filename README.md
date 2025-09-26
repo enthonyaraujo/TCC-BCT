@@ -29,8 +29,8 @@ Keywords: Z-Transform, Ladder networks, Circuit analysis, Difference equations.
 
 ### Tecnologias Utilizadas:
 
-Python[https://www.python.org/]
-Multisim[https://www.ni.com/en/support/downloads/software-products/download.multisim.html]
+[Python](https://www.python.org/)
+[Multisim](https://www.ni.com/en/support/downloads/software-products/download.multisim.html)
 
 
 
